@@ -44,6 +44,9 @@ httpd = HTTPServer(server_address, myserver)
 httpd.serve_forever()
 ~~~
 ## OUTPUT:
-
+### Server side :
+![Server side program](./images/Screenshot_20221211_185106.png)
+### Client side :
+![Client side output](./images/Screenshot_20221211_184332.png)
 
 ## RESULT:
